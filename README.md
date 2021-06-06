@@ -1,24 +1,14 @@
-# vue-user-management
+# supabase-vue-user-management
 
-## Project setup
-```
-yarn install
-```
+>This is based on the quickstart example(s) provided by [supabase](https://supabase.io/) using [React.js](https://supabase.io/docs/guides/with-react) and [Next.js](https://supabase.io/docs/guides/with-nextjs)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Just a reminder from the Supabase Documentation what exactly supabase is
+>Supabase is an open source Firebase alternative. We are a service to:
 
-### Compiles and minifies for production
-```
-yarn build
-```
+>Listen to database changes.
+- Query your tables, including filtering, pagination, and deeply nested relationships (like GraphQL).
+- Create, update, and delete rows.
+- Manage your users and their permissions.
+- Interact with your database using a simple UI.
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://github.com/aaronksaunders/supabase-vue-user-management/blob/master/sb-large.png)
