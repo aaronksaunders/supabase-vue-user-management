@@ -11,4 +11,7 @@ Just a reminder from the Supabase Documentation what exactly supabase is
 - Manage your users and their permissions.
 - Interact with your database using a simple UI.
 
+### Blog Post
+- https://dev.to/aaronksaunders/supabase-quickstart-vue-js-5f23
+
 ![](https://github.com/aaronksaunders/supabase-vue-user-management/blob/master/sb-large.png)
